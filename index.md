@@ -11,3 +11,10 @@ This is where I add details.
 Here’s a fun image:  
 
 ![Octocat waving](https://octodex.github.com/images/yaktocat.png)
+
+
+## Code Example  
+
+```python
+print("Hello, GitHub!")
+```
