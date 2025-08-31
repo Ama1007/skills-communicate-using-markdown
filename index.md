@@ -18,3 +18,9 @@ Here’s a fun image:
 ```python
 print("Hello, GitHub!")
 ```
+
+## My Task List  
+
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world  
